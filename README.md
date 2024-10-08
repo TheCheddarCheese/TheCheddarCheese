@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCheddarCheese
 - 👀 I’m interested in: Linux and the terminal
-- 🌱 I’m currently learning: C
+- 🌱 I’m currently learning: C++
 - 💞️ I’m looking to collaborate on: nothing currently, but that might change!
 - 📫 How to reach me: don't want to share anything right now since i don't think there's a need
 - 😄 Pronouns: they/them, I'm also asexual
